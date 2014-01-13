@@ -1,0 +1,22 @@
+[game]
+# hostname
+host = webdiplomacy.net
+# uri
+uri = /board.php?gameID=123456
+# launch alert if it lefts less than
+hours = 12
+
+[email]
+
+Russia   = russia@example.org
+France   = france@example.org
+Turkey   = turkey@example.org
+England  = england@example.org
+Germany  = germany@example.org
+Italy    =
+Austria  =
+
+[smtp]
+host = smtp.gmail.com:587
+user = USER.sender@gmail.com
+password = PASSWORD
